@@ -1,5 +1,3 @@
-# playlist_youtube_vlc
-import playlist youtube into vlc
 # VLC Youtube Import Playlist
 Lua plugin to import Youtube playlists
 

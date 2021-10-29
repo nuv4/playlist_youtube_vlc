@@ -8,7 +8,7 @@ Lua plugin to import Youtube playlists
 
 ### Installation
 
-To install the script refer refer to [this guide.](https://techblogup.com/play-a-youtube-playlist-in-vlc-player/)
+To install the script refer to [this guide.](https://techblogup.com/play-a-youtube-playlist-in-vlc-player/)
 
 ### Acknowledgements
 
